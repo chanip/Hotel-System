@@ -1,0 +1,5 @@
+William:Barrera:123786:WBarrera22:secretPass!2:guest
+Chong:Chanip:895401:CChanip:1234:guest
+Chris:Albright:1051409:calbright:1234:guest
+Suney:Kim:151180:KSuney151:myfirstood:manager
+John:Doe:772381:JD34:sjsu:manager
